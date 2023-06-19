@@ -46,7 +46,7 @@ const Welcome: React.FC<WelcomeProps> = ({navigation}) => {
               color="#4D4D4D"
               fontSize="4xl"
               fontWeight={'bold'}>
-              ýolagçy
+              ýoldaş
             </Heading>
 
             <Text fontSize={16} fontWeight="bold" mt="50px">
